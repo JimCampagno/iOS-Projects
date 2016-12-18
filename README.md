@@ -1,8 +1,7 @@
-iOS Projects  
+**iOS** Projects  
 
 by Jim 🦉
 
----
 
 
 # Marvel
@@ -18,6 +17,7 @@ by Jim 🦉
    
 [![](http://img.youtube.com/vi/mBMzgQygds0/0.jpg)](https://www.youtube.com/watch?v=mBMzgQygds0 "Marvel iOS App")
 
+---
 
 # Overwatch
 
@@ -30,6 +30,8 @@ by Jim 🦉
     
 [![](http://img.youtube.com/vi/A_x7IGWqPmg/0.jpg)](https://www.youtube.com/watch?v=A_x7IGWqPmg "Overwatch iOS App")
 
+---
+
 # Pass The Laugh
 
 [Link](https://github.com/JimCampagno/PassTheLaugh) to the project on Github.
@@ -40,6 +42,8 @@ by Jim 🦉
 * Drawing framework
 
 [![](http://img.youtube.com/vi/-Q5saVV12BQ/0.jpg)](https://www.youtube.com/watch?v=-Q5saVV12BQ "Pass The Laugh")
+
+---
 
 # Flatiron Go
 
@@ -53,6 +57,8 @@ It's like Pokemon Go, except it's bears.. in capes.
 * Firebase
 * Mapbox
 * Camera
+
+---
 
 # Flatiron School Immersive Assistant
 
@@ -68,6 +74,7 @@ NO link to the project on Github (private repo w/ the school).
 
 [![](http://img.youtube.com/vi/8ZFQVHgbaUY/0.jpg)](https://www.youtube.com/watch?v=8ZFQVHgbaUY "Flatiron School Immersive Assistant")
 
+---
 
 # Monster Board
 
@@ -83,6 +90,7 @@ NO link to the project on Github (private repo w/ the school).
 
 [![](http://img.youtube.com/vi/CfGdjdIsn1g/0.jpg)](https://www.youtube.com/watch?v=CfGdjdIsn1g "Monster Board")
 
+---
 
 # Twitch
 
