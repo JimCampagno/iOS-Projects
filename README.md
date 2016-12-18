@@ -4,7 +4,7 @@
 
 # Marvel
 
-[Link](https://github.com/JimCampagno/Marvel-iOS) to project on Github.
+[Link](https://github.com/JimCampagno/Marvel-iOS) to the project on Github.
 
 
 * Swift
