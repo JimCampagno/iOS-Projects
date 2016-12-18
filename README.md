@@ -1,6 +1,4 @@
-**iOS** Projects  
-
-by Jim 🦉
+**iOS** Projects  by Jim 🦉
 
 
 
@@ -51,12 +49,14 @@ It's like Pokemon Go, except it's bears.. in capes.
 
 [Link](https://github.com/learn-co-curriculum/FlatironGO) to the project and tutorial I created on Github.
 
-![](https://camo.githubusercontent.com/db366e8167d0192163107c271b3d684acdbe4585/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37544b797154334f696f726143764c692f67697068792e676966)
-
 * Swift
 * Firebase
 * Mapbox
 * Camera
+
+![](https://camo.githubusercontent.com/db366e8167d0192163107c271b3d684acdbe4585/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f37544b797154334f696f726143764c692f67697068792e676966)
+
+
 
 ---
 
